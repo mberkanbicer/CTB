@@ -1,0 +1,8 @@
+[package]
+name = "ctb-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-complex = "0.4"
+ndarray = "0.16"
