@@ -1,3 +1,6 @@
+.gitattributes    export-ignore
+.gitignore        export-ignore
+
 # Touchstone fixtures are compared byte for byte with the Octave-written
 # reference files, so they must keep their committed bytes on every platform.
 rust/tests/data/** -text
