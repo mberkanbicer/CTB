@@ -1,0 +1,7 @@
+type s
+version 1
+order 21
+ref 50 0 50 0
+comments 2
+! hand written dB file
+! second comment
